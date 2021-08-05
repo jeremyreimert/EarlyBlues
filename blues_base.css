@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/*
+   Early 20th Century Blues
+   Author: Jeremy Reimert
+   Date: November 17, 2017 
+ 
+   Filename: blues_base.css
+
+*/
+
+article, body, footer, h1, h2, header, html, img, iframe, li, nav,  p, section, ul {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   vertical-align: baseline;
+   background: transparent;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+/* Set the default page element styles */
+
+body {
+   margin: 0px;
+   width: 100%;
+}
+
+body {
+   font-family: Verdana, Geneva, sans-serif;
+   font-size: 100%;
+   font-weight: inherit;
+   line-height: 1.2em;
+   margin: 0px;
+   padding: 0px;
+   text-decoration: none;
+   vertical-align: baseline;
+}
+
+nav ul {
+   list-style: none;
+   list-style-image: none;
+}
+
+nav a {
+   text-decoration: none;
+}

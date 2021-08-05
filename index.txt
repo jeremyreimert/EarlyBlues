@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!--    
+    Early 20th Century Blues
+    Author: Jeremy Reimert
+    Date: November 18, 2017   
+
+    Filename: Home.html
+   -->
+   
+   <meta charset="utf-8" />
+   <title>Early 20th Century Blues</title>
+  
+<link href="blues_base.css" rel="stylesheet"/>
+<link href="blues_layout.css" rel="stylesheet"/>
+  
+</head>
+<a name = "top"> </a>
+<body>
+   <header>
+      <img src="Landscape.jpg" width="100%" height="300" alt="Early 20th Century Blues" />
+      <h1>Early 20th Century Blues</h1>
+      </nav>
+      <nav class="tabs">
+         <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="SonHouse.html">Son House</a></li>
+            <li><a href="MemphisMinnie.html">Memphis Minnie</a></li>
+            <li><a href="RobertJohnson.html">Robert Johnson</a></li>
+            <li><a href="Leadbelly.html">Leadbelly</a></li>
+            <li><a href="CharliePatton.html">Charlie Patton</a></li>
+            <li><a href="LonnieJohnson.html">Lonnie Johnson</a></li>            
+         </ul>
+      </nav>
+   </header>
+   
+   <section id="center">
+      <article>
+         <header>
+            <h1>Brief History of the Blues</h1>
+         </header>
+         <img id="artistimg" src="Home.jpg" alt="Home" />
+         <p> The Mississippi Delta is generally considered to be the birthplace of the 
+blues, with the new musical form emerging around the turn of the 19th
+century. But the story of the blues dates back before the Civil War and 
+to the West coast of Africa where countless men, women and children 
+were 
+captured by slave traders and shipped across the Atlantic for forced 
+labor on Southern plantations. 
+
+Slaves from many African countries carried the songs and music of their 
+respective homelands to America. There, amidst the hard work, 
+fear and 
+oppression, the slaves found a temporary escape in music and expressed 
+both hope and despair in their songs. The musical traditions of numerous 
+African cultures blended as the slaves worked side by side in 
+the steamy fields of the south. Field hollers and work songs were a 
+means of 
+expression and communication ; which were often 
+not otherwise allowed by the plantation overseers. With few instruments
+ and little or no money, 
+the slaves used their own voices and clapped 
+percussion as musical tools. Their original methods of creating music 
+became significant elements in 
+the creation of the raw Delta Blues 
+style. 
+With its history of slavery, racial oppression and Jim Crow laws, plus baking heat, rampant illiteracy 
+and poverty, the Delta was a cruel place for many African Americans well into the 
+
+middle of the 20th century. The blues documented their experience better than 
+any other form of cultural expression. The songs and music 
+of the early Delta blues were passed down orally, in written form, and later 
+preserved in field recordings made 
+by traveling ethno-musicologists such as the 
+father and son team of John and Alan Lomax in the early 1940s.  
+
+In the 1920s and '30s Delta bluesmen Charley Patton, Son House, and Robert 
+Johnson influenced the next generation of Mississippi 
+born blues greats like Muddy 
+Waters, who took the music north as they joined the mass exodus of African Americans from
+ the rural south in the '40s and '50s. The acoustic sound of the Delta blues 
+was amplified and electrified in Memphis and Chicago to accommodate the 
+tastes of the newly urban 
+population. With the growth of its recording 
+industry, Chicago eventually eclipsed the Delta as the center of the blues.
+The Delta area has produced the largest number of influential and important 
+blues artists and, though never a major center of the 
+music business, it is still 
+the emotional heart of the blues for musicians and fans 
+        </p>
+     </article>
+      
+      <h2>Performances</h2>
+         <iframe id="video" width="854" height="480" src="https://www.youtube.com/embed/YvLmAjPTkDU" frameborder="0" gesture="media" allowfullscreen></iframe>
+         
+   </section>
+   
+   <footer>   
+        Early 20th Century Blues &copy; 2017 English (US) 
+        <span> <a href="#top">Got to top of page</a> <a href="Contact.html">Contact</a> </span>
+   </footer>
+</body>
+</html>
